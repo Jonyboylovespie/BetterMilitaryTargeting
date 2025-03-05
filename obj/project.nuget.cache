@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s08226jvg98yqdHFsB2Qg5a/CFtt064H2LnoGul4+wwfBnc04jNBUYkBPQViVV4RFrwQyFVNjRjpvCl2jtuJxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonat\\My Drive\\repos\\Better Military Targetting\\BetterMilitaryTargeting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Jonat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
